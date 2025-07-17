@@ -33,6 +33,12 @@ A beginner-friendly, in-depth guide to **Time Complexity** and **Space Complexit
 
 ---
 
+## 📑 Time Complexity Graph
+
+---
+
+## ![Time Complexity Graph](./assets/time-complexity-graph.png)
+
 ## 🧠 Target Audience
 
 This repository is designed for:
@@ -65,7 +71,7 @@ Learning time and space complexity will help you:
 
 ## ✍️ Author
 
-Made with ❤️ by [Hamim Ibn Hannan](https://hamimibnhannan.netlify.app/)
+[Hamim Ibn Hannan](https://hamimibnhannan.netlify.app/)
 
 ---
 
